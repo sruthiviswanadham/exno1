@@ -1,3 +1,5 @@
+# NAME:V.V.SAI SRUTHI
+# REG NO:212223100061
 # Exno:1
 Data Cleaning Process
 
